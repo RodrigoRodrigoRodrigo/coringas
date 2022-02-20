@@ -27,3 +27,5 @@ public class Program {
 
 	}
 }
+
+![get-put_covariancia](https://user-images.githubusercontent.com/61166475/154862283-ca21ead4-7b77-49ac-b81e-860d4dfc7644.png)
