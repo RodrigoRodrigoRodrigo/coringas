@@ -37,3 +37,5 @@ public class Program {
 		System.out.println();
 	}
 }
+
+![get-put](https://user-images.githubusercontent.com/61166475/154862247-d73d3457-be6b-4ec7-99df-a066363d99d4.png)
