@@ -31,3 +31,5 @@ public class Program {
 		Number x = myNums.get(0);
 	}
 }
+
+![get-put_ contravariancia](https://user-images.githubusercontent.com/61166475/154862273-133ba729-f221-4f89-8fee-0e278a1199a7.png)
